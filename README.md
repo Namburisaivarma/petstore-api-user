@@ -1,2 +1,2 @@
 # petstore-api-user
-Sample API creation with ndejs and mysql.
+Sample API creation with nodejs and mysql.
